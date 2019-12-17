@@ -1,0 +1,55 @@
+﻿{
+  "Environments": {
+    "Url": "https://loyalty-ui.qa.cnxloyalty.com/",
+    "Username": "john.doe@gmail.com",
+    "Password": "1qaz!QAZ",
+    "Browser": "chrome",
+    "Headless": false,
+    "tenantIdHeader": "cnx-tenantId",
+    "tenantIdValue": "demo",
+    "Name": "qa",
+    "BaseUrl": "https://air-travelport.qa.cnxloyalty.com/api/air/v1.0/connector/",
+    "GetAllSupplierAccountDetailsUrl": "https://agency-apis.qa.cnxloyalty.com/api/v1.0/supplieraccounts",
+    "SupplierInfoSource": "FromDomainApi",
+    "Suppliers": [
+      {
+        "Name": "Travelport",
+        "Id": "2zr1s01acqo",
+        "Endpoint": "travelport",
+        "OutboundProxyBookEndpoint": "https://proxy-service.qa.secure.cnxloyalty.com/travelporttest",
+        "IsTokenRequired": false
+      },
+      {
+        "Name": "Mystifly",
+        "Id": "2zr16spau4g",
+        "Endpoint": "mystifly",
+        "OutboundProxyBookEndpoint": "https://proxy-service.qa.secure.cnxloyalty.com/mystiflytest",
+        "IsTokenRequired": true
+      },
+      {
+        "Name": "MystiflyLCC",
+        "Id": "2zr1b7tfxfk",
+        "Endpoint": "mystifly",
+        "OutboundProxyBookEndpoint": "https://proxy-service.qa.secure.cnxloyalty.com/mystiflytest",
+        "IsTokenRequired": true
+      },
+
+      {
+        "Name": "ACH",
+        "Id": "2zr1ht3r01s",
+        "Endpoint": "travelport",
+        "OutboundProxyBookEndpoint": "https://proxy-service.qa.secure.cnxloyalty.com/achtest",
+        "IsTokenRequired": true
+      },
+
+
+      {
+        "Name": "Sabre",
+        "Id": "2zr1f4z4jr4",
+        "Endpoint": "Sabre",
+        "OutboundProxyBookEndpoint": "https://proxy-service.qa.secure.cnxloyalty.com/sabretest",
+        "IsTokenRequired": true
+      }
+    ]
+  }
+}
