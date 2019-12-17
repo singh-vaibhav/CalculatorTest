@@ -10,7 +10,7 @@ namespace UiAutomationTests.TestScript
     [TestFixture]
     [AllureNUnit]
     [Category("Regression")]
-    public class AdditionTests :BaseClass
+    public class CalculationVerificationTests : BaseClass
     {
        
         [Test]

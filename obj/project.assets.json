@@ -8490,11 +8490,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\ui-automation\\Ui Automation\\UiAutomationTests.csproj",
+      "projectUniqueName": "C:\\Projects\\ui-automation\\UiAutomationTests.csproj",
       "projectName": "UiAutomationTests",
-      "projectPath": "C:\\Projects\\ui-automation\\Ui Automation\\UiAutomationTests.csproj",
+      "projectPath": "C:\\Projects\\ui-automation\\UiAutomationTests.csproj",
       "packagesPath": "C:\\Users\\vsingh\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\ui-automation\\Ui Automation\\obj\\",
+      "outputPath": "C:\\Projects\\ui-automation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

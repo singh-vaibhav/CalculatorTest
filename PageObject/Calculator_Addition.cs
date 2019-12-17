@@ -18,6 +18,8 @@ namespace UiAutomationTests
         public const string submit_btn_Xpath = "//input[@class='btn btn-default' and @type='submit']";
         public const string results_text_Xpath = "//h3[contains(text(),'Results')]";
         public const string finalResult_text_Xpath = "//div[@class='col-md-6']/div";
+        public const string companyLogo_Xpath = "//img[@src='/img/logo.png']";
+
 
 
 
@@ -28,6 +30,7 @@ namespace UiAutomationTests
 
 
         #region WebElement
+        public By CompanyLogo = CustomBy.XPath(companyLogo_Xpath, "Logo");
 
         public By FirstNumber = CustomBy.XPath(firstNumber_textBox_Xpath, "First Number");
         public By SecondNumber = CustomBy.XPath(secondNumber_textBox_Xpath, "Second Number");
@@ -81,6 +84,13 @@ namespace UiAutomationTests
             return replaceWhiteSpacesAndNewLines;
         }
 
+        public bool VerifyImportantElementLoaded()
+        {
+            return (WebElementHelper.IsElementPresent(FirstNumber) &&
+                WebElementHelper.IsElementPresent(SecondNumber) &&
+                WebElementHelper.IsElementPresent(ResultsText) &&
+                WebElementHelper.IsElementPresent(CompanyLogo));
+        }
         #endregion
 
     }

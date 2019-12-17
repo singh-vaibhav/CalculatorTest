@@ -1,0 +1,15 @@
+C:\Projects\ui-automation\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Projects\ui-automation\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Projects\ui-automation\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Projects\ui-automation\bin\Debug\netcoreapp2.1\UiAutomationTests.dll.config
+C:\Projects\ui-automation\bin\Debug\netcoreapp2.1\UiAutomationTests.deps.json
+C:\Projects\ui-automation\bin\Debug\netcoreapp2.1\UiAutomationTests.runtimeconfig.json
+C:\Projects\ui-automation\bin\Debug\netcoreapp2.1\UiAutomationTests.runtimeconfig.dev.json
+C:\Projects\ui-automation\bin\Debug\netcoreapp2.1\UiAutomationTests.dll
+C:\Projects\ui-automation\bin\Debug\netcoreapp2.1\UiAutomationTests.pdb
+C:\Projects\ui-automation\obj\Debug\netcoreapp2.1\UiAutomationTests.csprojAssemblyReference.cache
+C:\Projects\ui-automation\obj\Debug\netcoreapp2.1\UiAutomationTests.csproj.CoreCompileInputs.cache
+C:\Projects\ui-automation\obj\Debug\netcoreapp2.1\UiAutomationTests.AssemblyInfoInputs.cache
+C:\Projects\ui-automation\obj\Debug\netcoreapp2.1\UiAutomationTests.AssemblyInfo.cs
+C:\Projects\ui-automation\obj\Debug\netcoreapp2.1\UiAutomationTests.dll
+C:\Projects\ui-automation\obj\Debug\netcoreapp2.1\UiAutomationTests.pdb
