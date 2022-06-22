@@ -18,7 +18,7 @@
     <PackageReference Include="log4net" Version="2.0.8" />
     <PackageReference Include="Microsoft.Extensions.Configuration" Version="3.0.0-preview.18572.1" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.0.0-preview-20181205-02" />
-    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
     <PackageReference Include="NReco.PhantomJS" Version="1.0.4" />
     <PackageReference Include="NUnit" Version="3.11.0" />
     <PackageReference Include="NUnit.Allure" Version="1.0.6-beta30" />
